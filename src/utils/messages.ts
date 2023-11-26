@@ -1,0 +1,4 @@
+export const messages = {
+    PARAMS_MUST_BE_NUMBER: 'PARAMS_MUST_BE_NUMBER',
+    PARAM_IS_NOT_EMPTY: 'PARAM_IS_NOT_EMPTY',
+}
